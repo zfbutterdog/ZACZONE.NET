@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+}
+#container {
+    width: 968px;
+    margin: 0px auto;
+}
+#heaader {
+    width: 964px;
+    height: 90px;
+    background: black;
+    order: solid 2px black;
+    color: black;
+}
